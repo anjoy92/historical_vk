@@ -1,0 +1,17 @@
+{
+    
+    "tweetTrackerURL": "http://blogtrackers.fulton.asu.edu:5000",
+    "tweetTrackerUser": "admin",
+    "tweetTrackerPassword": "dmml2012@asu",
+    "distServer": "149.169.226.104",
+    "distPort": 27020,
+    "distUser":"twtuser",
+    "distPassword":"!!!asudmml%%%",
+    "distDBName": "tweettracker",   
+    "ramServer": "10.211.17.227",
+    "ramPort": 27017,
+    "ramDBName": "tweettracker",
+    "ramUser":"twtuser",
+    "ramPassword":"!!!asudmml%%%"
+    
+}
